@@ -34,7 +34,6 @@ The system scales from two players in a backyard to a full arena with spectator 
 19. [OTA Firmware Updates](#ota-firmware-updates)
 20. [Match History & Persistent Leaderboards](#match-history--persistent-leaderboards)
 21. [ESP32-S3 Pin Reference](#esp32-s3-pin-reference)
-22. [Planned Enhancements](#planned-enhancements)
 
 ---
 
