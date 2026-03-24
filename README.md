@@ -1,4 +1,9 @@
-# DIY Laser Tag System — Master Design Document
+# ORLT - Open Radio Laser Tag
+
+## WIP - This is a Work in Progress, if you would like to contribute, feel free to do so. I would gladly accept contributions.
+### Any change or update requests for this design document must be put under Discussions first, so we can work out the finer details.
+
+## Description
 
 A modular, open-source laser tag system built around the ESP32-S3 microcontroller. Designed to replace the internal circuitry of widely-available commercial laser tag blasters, using a custom PCB that matches the original form factor. Because many manufacturers license the same blaster hardware, a single PCB design provides wide compatibility across brands.
 
